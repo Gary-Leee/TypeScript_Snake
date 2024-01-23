@@ -1,0 +1,2 @@
+# TypeScript_littlegame
+原生ts写个贪吃蛇的联手项目
